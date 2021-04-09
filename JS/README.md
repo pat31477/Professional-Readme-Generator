@@ -5,7 +5,7 @@
 
 ## Description
 
-  Generate a professional Readme file using JS, Jquery and Node.js
+  Generate a professional readme file quickly using JS, JQuery and Node.js
 
 ## Table of Contents
   * [Installation](#installation)
@@ -19,16 +19,16 @@
   
 ## Installation
 
-  Copy files or clone repo and run node index.js at root
+  run node index.js
 
 ## Usage
 
-  See included .gif for a full demo
+  See attached .gif for full demo
 
  ## Links
  
-  * Application URL: (https://Pat31477.github.io/Good-Readme-Generator/)
-  * Github Repository URL: (https://github.com/Pat31477/Good-Readme-Generator)
+  * Application URL: (https://pat31477.github.io/Professional Readme Generator/)
+  * Github Repository URL: (https://github.com/pat31477/Professional Readme Generator)
 
 ## License
 
@@ -36,15 +36,15 @@
 
 ## Contributions
 
-  Gabe Thomas
+  None
 
 ## Tests
 
-  There are no tests at this time
+  None at this time.
 
 ## Questions
 
-  [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/Pat31477) 
+  [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477) 
   [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
 
   Please email me with any question regarding this project! pat31477@yahoo.com 
