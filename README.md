@@ -5,7 +5,8 @@
 
 ## Description
 
-  Generate a professional readme file quickly using JS and Node.js
+  Generate a professional readme file quickly. This application was built using JavaScript and Node.js
+  
 
 ## Table of Contents
   * [Installation](#installation)
@@ -19,16 +20,18 @@
   
 ## Installation
 
-  run node index.js
+  Feel free to copy the code or clone the repository. 
 
 ## Usage
 
-  See attached .gif for full demo
+  Once the code has been opened in code editor, you will need to run node index.js in your terminal to start this application.
+  Here is a demo showing how to run the aplication and also the created Readme file.
+  ![Top-Page-Area](./Assets/Images/ProfessionalReadmeDemo.gif?raw=true "Top-Page-Area")
 
  ## Links
  
   * Application URL: (https://pat31477.github.io/Professional Readme Generator/)
-  * Github Repository URL: (https://github.com/pat31477/Professional Readme Generator)
+  * Github Repository URL: (https://github.com/pat31477/Professional-Readme-Generator)
 
 ## License
 
@@ -36,7 +39,9 @@
 
 ## Contributions
 
-  None
+Thank you to the following for suggestions, insights, and making sure I didn't miss anything!
+
+* Gabe Thomas (https://github.com/samohtebag)
 
 ## Tests
 
@@ -44,8 +49,10 @@
 
 ## Questions
 
+   Please email me with any question regarding this project @ pat31477@yahoo.com or connect with me on LinkedIn and Github
+
   [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477) 
   [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
 
-  Please email me with any question regarding this project! pat31477@yahoo.com 
+ 
   
