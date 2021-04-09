@@ -1,5 +1,5 @@
 // Function that returns a license badge based on which license is selected
-// If no license is selected, return an empty string
+// Return empty string if no license is selected
 function generateLicenseBadge(license) {
   if (license === "apache-2.0") {
     return `[![apache-2.0](https://img.shields.io/badge/license-apache--2.0-green?style=plastic)]`
@@ -19,7 +19,7 @@ function generateLicenseBadge(license) {
 };
 
 // Function that returns the license link
-// If no license is selected, return an empty string
+// Return empty string if no license is selected
 function generateLicenseLink(license) {
   if (license === "apache-2.0") {
     return `(https://www.apache.org/licenses/LICENSE-2.0)`
@@ -39,7 +39,7 @@ function generateLicenseLink(license) {
 };
 
 // Function that returns the license section of README
-// If no license is selected, return an empty string
+// Return empty string if no license is selected
 function generateLicenseSection(license) {
   if (license) {
     return `## License`
@@ -97,10 +97,12 @@ ${generateLicenseSection(data.license)}
 
 ## Questions
 
+  Please email me with any question regarding this project @ ${data.email} and connect with me on Github and LinkedIn. 
+
   [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/${data.username}) 
   [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
 
-  Please email me with any question regarding this project! ${data.email} 
+  
   `;
 }
 
