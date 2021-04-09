@@ -5,7 +5,7 @@
 
 ## Description
 
-  Generate a professional readme file quickly using JS, JQuery and Node.js
+  Generate a professional readme file quickly using JS and Node.js
 
 ## Table of Contents
   * [Installation](#installation)
