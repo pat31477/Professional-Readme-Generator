@@ -30,7 +30,7 @@
 
  ## Links
  
-  * Application URL: (https://pat31477.github.io/Professional Readme Generator/)
+  * Application URL: (https://pat31477.github.io/Professional-Readme-Generator/)
   * Github Repository URL: (https://github.com/pat31477/Professional-Readme-Generator)
 
 ## License
