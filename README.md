@@ -26,7 +26,7 @@
 
   Once the code has been opened in code editor, you will need to run node index.js in your terminal to start this application.
   Here is a demo showing how to run the aplication and also the created Readme file.
-  ![Top-Page-Area](./Assets/Images/ProfessionalReadmeDemo.gif?raw=true "Top-Page-Area")
+  ![Demo](./Images/ProfessionalReadmeDemo.gif?raw=true "DemoGif")
 
  ## Links
  
